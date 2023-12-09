@@ -1,5 +1,4 @@
 # Survey Monkey 
-### assignment12_category_0019
 
 ## [Website Live Link](https://survey-polling.netlify.app/) 
 
