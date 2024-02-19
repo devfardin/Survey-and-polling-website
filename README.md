@@ -15,4 +15,4 @@
 
 - Exclusive features and capabilities are reserved for pro users, granting them the ability to complete surveys and send requests for additional surveys. This tiered system enhances user engagement and adds value to the platform.
 
-- To unlock pro user privileges, a subscription model is implemented where general users can transition to pro status by making a payment. This not only contributes to revenue generation but also enhances the platform's sustainability and features accessibility.
+- To unlock pro-user privileges, a subscription model is implemented where general users can transition to pro status by making a payment. This not only contributes to revenue generation but also enhances the platform's sustainability and features accessibility.
